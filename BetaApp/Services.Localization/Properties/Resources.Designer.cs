@@ -77,5 +77,14 @@ namespace Services.Localization.Properties {
                 return ResourceManager.GetString("SecondString", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to From External Git Feature Branch.
+        /// </summary>
+        public static string ThirdString {
+            get {
+                return ResourceManager.GetString("ThirdString", resourceCulture);
+            }
+        }
     }
 }
