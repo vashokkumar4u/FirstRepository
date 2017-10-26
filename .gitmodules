@@ -1,0 +1,3 @@
+[submodule "BetaApp/Sub"]
+	path = BetaApp/Sub
+	url = https://github.com/vashokkumar4u/SecondRepository.git
